@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Worm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sign>64</sign>
+  <color>Green</color>
+  <body>
+    <Point>
+      <X>39</X>
+      <Y>26</Y>
+    </Point>
+    <Point>
+      <X>38</X>
+      <Y>26</Y>
+    </Point>
+    <Point>
+      <X>37</X>
+      <Y>26</Y>
+    </Point>
+  </body>
+  <Dx>1</Dx>
+  <Dy>0</Dy>
+</Worm>

@@ -1,0 +1,15 @@
+C:\Users\пк\source\repos\Contactbook\Contact_Book\bin\Debug\Contact_Book.exe.config
+C:\Users\пк\source\repos\Contactbook\Contact_Book\bin\Debug\Contact_Book.exe
+C:\Users\пк\source\repos\Contactbook\Contact_Book\bin\Debug\Contact_Book.pdb
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.Form1.resources
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.Properties.Resources.resources
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.exe
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.pdb
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.CreateContactForm.resources
+C:\Users\пк\source\repos\Contactbook\Contact_Book\bin\Debug\System.Data.SQLite.dll
+C:\Users\пк\source\repos\Contactbook\Contact_Book\bin\Debug\System.Data.SQLite.xml
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.csproj.CopyComplete
+C:\Users\пк\source\repos\Contactbook\Contact_Book\obj\Debug\Contact_Book.DetailsForm.resources

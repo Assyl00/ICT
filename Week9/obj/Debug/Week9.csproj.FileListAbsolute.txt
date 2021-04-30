@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\Week9\bin\Debug\Week9.exe.config
+C:\Users\пк\source\repos\Week9\bin\Debug\Week9.exe
+C:\Users\пк\source\repos\Week9\bin\Debug\Week9.pdb
+C:\Users\пк\source\repos\Week9\obj\Debug\Week9.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\Week9\obj\Debug\Week9.Form1.resources
+C:\Users\пк\source\repos\Week9\obj\Debug\Week9.Properties.Resources.resources
+C:\Users\пк\source\repos\Week9\obj\Debug\Week9.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\Week9\obj\Debug\Week9.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Week9\obj\Debug\Week9.exe
+C:\Users\пк\source\repos\Week9\obj\Debug\Week9.pdb
